@@ -21,4 +21,4 @@ elsif phrase != phrase.upcase
 else
   'NO, NOT SINCE 1983!'
 end
-  
+end
